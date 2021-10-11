@@ -9,7 +9,7 @@
 # of the whole Ravencoin Community
 
 # retrieve latest filesize list
-wget https://bootstrap.ravenclause.com/mirror/ravencoinipfs_cluster_under50MB.txt -O ravencoinipfs_cluster_under50MB.txt
+wget https://bootstrap.ravenclause.com/miniravencoinmirror/ravencoinipfs_cluster_under50MB.txt -O ravencoinipfs_cluster_under50MB.txt
 
 echo "Preparing to mirror assets"
 
