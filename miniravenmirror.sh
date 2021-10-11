@@ -13,7 +13,7 @@ wget https://bootstrap.ravenclause.com/miniravencoinmirror/ravencoinipfs_cluster
 
 echo "Preparing to mirror assets"
 
-cat ravencoinipfs_cluster_under100MB.txt | sed 's/^[[:space:]]*//g' > uniq.txt
+cat ravencoinipfs_cluster_under50MB.txt | sed 's/^[[:space:]]*//g' > uniq.txt
 
 # Lets go Ravencoining!
 while read p; do
