@@ -1,5 +1,5 @@
 # miniravencoinmirror
-## written by push adam@ravenclause.com
+# written by push adam@ravenclause.com
 
 Orchestration to Mirror the Entire Ravencoin Pinset using Ravenclause Bootstrap
 
