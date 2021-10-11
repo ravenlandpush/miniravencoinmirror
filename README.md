@@ -8,9 +8,9 @@ In your IPFS environment simply type the following commands to initiate the rave
 
 ``` 
 yum install github;
-git clone https://github.com/ravenlandpush/miniravencoinmirror```
+git clone https://github.com/ravenlandpush/miniravencoinmirror
 
-```cd miniravencoinmirror && ./miniravenmirror.sh ```
+cd miniravencoinmirror && ./miniravenmirror.sh ```
 
 # Cron
 
