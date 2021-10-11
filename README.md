@@ -17,7 +17,8 @@ cd miniravencoinmirror && ./miniravenmirror.sh
 # Cron
 
 ```
-cd miniravencoinmirror
-# run on tuesday and thursday at 4AM
 
-sudo echo "0 4 * * 2,4 youripfsuser $PWD/miniravencoinmirror/miniravenmirror.sh" > /etc/cron.d/miniravencoinmirror```
+# run on tuesday and thursday at 4AM
+cd miniravencoinmirror
+sudo echo "0 4 * * 2,4 youripfsuser $PWD/miniravenmirror.sh" > /etc/cron.d/miniravencoinmirror
+```
